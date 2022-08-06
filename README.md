@@ -1,0 +1,1 @@
+# household-attendance-manager
